@@ -1,0 +1,15 @@
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\bin\Debug\net6.0\задача133.exe
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\bin\Debug\net6.0\задача133.deps.json
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\bin\Debug\net6.0\задача133.runtimeconfig.json
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\bin\Debug\net6.0\задача133.dll
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\bin\Debug\net6.0\задача133.pdb
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\obj\Debug\net6.0\задача133.csproj.AssemblyReference.cache
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\obj\Debug\net6.0\задача133.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\obj\Debug\net6.0\задача133.AssemblyInfoInputs.cache
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\obj\Debug\net6.0\задача133.AssemblyInfo.cs
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\obj\Debug\net6.0\задача133.csproj.CoreCompileInputs.cache
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\obj\Debug\net6.0\задача133.dll
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\obj\Debug\net6.0\refint\задача133.dll
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\obj\Debug\net6.0\задача133.pdb
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\obj\Debug\net6.0\задача133.genruntimeconfig.cache
+C:\Users\Ксения\Desktop\семинар2\задача2\задача133\obj\Debug\net6.0\ref\задача133.dll
